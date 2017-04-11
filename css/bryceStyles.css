@@ -1,0 +1,37 @@
+
+
+h1{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 5em;
+	color: crimson;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: auto;
+}
+
+#menuBar{
+
+	height: 70px;
+	background-color: #003300; /* dark green */
+	width: 100%;
+
+}
+
+.menuItem{
+	width : 32.5%;
+	height: 70%;
+	background-color: #003300; /* dark green */
+	border 2px solid red;
+	float: left;
+	text-align: center;
+}
+
+.menuItem a {
+
+	background-color: #003300; /* dark green */
+	color: white;
+	text-decoration: none;
+}
+
